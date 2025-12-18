@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "あめふり婦人",
+  "base_artist": "米津玄師",
+  "createdAt": "2025-12-18T07:30:24.020287Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あめふり婦人",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_あめふり婦人_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "あめふり婦人",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/02_あめふり婦人_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "あめふり婦人",
+      "artist": "Yonezu Kenshi",
+      "has_synced": true,
+      "path": "select/03_あめふり婦人_Yonezu_Kenshi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あめふり婦人",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_あめふり婦人_米津玄師.txt"
+    }
+  ]
+}
